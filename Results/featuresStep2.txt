@@ -1,0 +1,12 @@
+BodyAcc_mean_X
+BodyAcc_mean_Y
+BodyAcc_mean_Z
+BodyAcc_std_X
+BodyAcc_std_Y
+BodyAcc_std_Z
+BodyGyro_mean_X
+BodyGyro_mean_Y
+BodyGyro_mean_Z
+BodyGyro_std_X
+BodyGyro_std_Y
+BodyGyro_std_Z
